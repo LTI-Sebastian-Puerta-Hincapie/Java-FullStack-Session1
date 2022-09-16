@@ -7,7 +7,6 @@ import com.lti.test.A;
 import com.lti.test.B;
 import com.lti.test.C;
 import com.lti.test.D;
-import com.lti.test.E;
 
 public class CalApp {
 
